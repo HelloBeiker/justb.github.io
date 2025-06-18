@@ -1,0 +1,51 @@
+body {
+    background-color: goldenrod;
+    color: rgb(29, 29, 29);
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.Gallery img {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 100px;
+    padding: 5px;
+    margin: 20px 0px 0px 0px;
+}
+
+.banner {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    padding: 5px;
+}
+
+.strongcta {
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.homecta {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.homebutton {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: black;
+    padding: 25px 35px;
+    text-decoration: none;
+    color: aliceblue;
+    border: none;
+
+}
+
+.
